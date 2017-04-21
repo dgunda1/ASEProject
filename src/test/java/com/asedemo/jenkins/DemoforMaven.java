@@ -6,8 +6,12 @@ public class DemoforMaven {
 
 	@Test
 	public void testHello() {
-		
+		try{
 		System.out.println("Hello World..!");
+		}
+		catch(Exception e)
+		{
+		}
 	}
 	
 }
