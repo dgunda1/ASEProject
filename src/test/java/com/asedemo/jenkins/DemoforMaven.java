@@ -11,6 +11,7 @@ public class DemoforMaven {
 		}
 		catch(Exception e)
 		{
+			System.out.println("Hello Catch block.!");
 		}
 		finally{
 		}
