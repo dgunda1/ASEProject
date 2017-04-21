@@ -11,7 +11,8 @@ public class DemoforMaven {
 		}
 		catch(Exception e)
 		{
-			
+			System.out.println("Hello World..!");
+			System.out.println("Hello World..!");
 		}
 		finally{
 		}
