@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-CDC3CTN" name="com.asedemo.jenkins.DemoforMaven" tests="1" failures="0" timestamp="21 Apr 2017 03:36:58 GMT" time="0.024" errors="0">
+  <testcase name="testHello" time="0.01" classname="com.asedemo.jenkins.DemoforMaven"/>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24" started-at="2017-04-20T23:36:58Z" finished-at="2017-04-20T23:36:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24" started-at="2017-04-20T23:36:58Z" finished-at="2017-04-20T23:36:58Z">
+      <class name="com.asedemo.jenkins.DemoforMaven">
+        <test-method status="PASS" signature="testHello()" name="testHello" duration-ms="10" started-at="2017-04-20T23:36:58Z" finished-at="2017-04-20T23:36:58Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
